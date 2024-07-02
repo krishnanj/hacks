@@ -48,4 +48,4 @@ Some hacky scripts that may come in handy time to time.
 Each script is designed for ease of use with command-line operation, enhancing productivity and streamlining tasks. Users should ensure proper execution permissions and dependencies are set before running the scripts.
 
 
-[Ajay Mandyam Rangarajan](https://www.aices.rwth-aachen.de/en/people/rangarajan) also contributed to this repository.
+[Ajay Mandyam Rangarajan](https://armandyam.github.io/) also contributed to this repository.
